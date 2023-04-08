@@ -15,5 +15,6 @@ As dependências necessárias para o projeto foram:
 <li>MySQL Connector: para fazer a conexão com o banco de dados mySQL</li>
 <li>JSF 2.1: biblioteca de componentes javax.faces e PrimeFaces, para a interface de usuário.</li>
 
-##Obersavações
+
+## Obersavações
 É necessário criar um banco de dados mySQL para que o projeto rode, está configurado como user e pode ser mudado no arquivo persistence.xml
